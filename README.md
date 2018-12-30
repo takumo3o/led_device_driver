@@ -34,3 +34,6 @@ $ echo 2 > /dev/myled0
 $ bash cleaner.bash
 ```
   * build 後の led.c への変更の反映や、環境をきれいにしたい際に clean
+
+## LICENSE
+このリポジトリは GPLv3 ライセンスに基づきます。
