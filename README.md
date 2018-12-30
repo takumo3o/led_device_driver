@@ -12,14 +12,14 @@ Device driver that can handle LED on Raspberry Pi.
   * GPIO25, GNDに接続
 
 ## 使い方
-1. リポジトリをcloneし、build
+1. リポジトリを clone し、build
 ```
 $ git clone https://github.com/takumo3o/robosys_device_driver.git
 $ cd robosys_device_driver
 $ bash maker.bash
 ```
 
-2. 0~2の内の好きな数字を入力
+2. 0~2 の内の好きな数字を入力
 ```
 $ echo 0 > /dev/myled0
 $ echo 1 > /dev/myled0
