@@ -2,6 +2,9 @@
 
 Device driver that can handle LED on Raspberry Pi.
 
+## 概要
+入力する値によってLEDの点滅のパターンが変わるデバイスドライバです。点滅のパターンは、モールス信号を表します。
+
 ## 動画
 * URL - https://www.youtube.com/watch?v=E9WvXxnSEjY
 
