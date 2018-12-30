@@ -33,4 +33,4 @@ $ echo 2 > /dev/myled0
 ```
 $ bash cleaner.bash
 ```
-  * build後のled.cへの変更の反映や、環境をきれいにしたい際にclean
+  * build 後の led.c への変更の反映や、環境をきれいにしたい際に clean
