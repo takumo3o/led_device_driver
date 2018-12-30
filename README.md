@@ -36,4 +36,4 @@ $ bash cleaner.bash
   * build 後の led.c への変更の反映や、環境をきれいにしたい際に clean
 
 ## LICENSE
-このリポジトリは GPLv3 ライセンスに基づきます。
+このリポジトリは GPLv3 ライセンスに基づきます。[LICENSE](https://github.com/takumo3o/robosys_device_driver/blob/master/LICENSE)をご覧ください。
